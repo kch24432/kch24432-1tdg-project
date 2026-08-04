@@ -1,0 +1,63 @@
+p {
+    color: #755d2c;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    width: 20%;
+}
+
+h1 {
+    color: #FCFDFF;
+}
+
+body {
+    background-color: #755d2c;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:  #755d2c;
+  }
+  
+  ul li {
+    float: left;
+  }
+  
+  ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  ul li a:hover {
+    background-color:  #755d2c;
+  }
+  
+p {
+    font-size:medium;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.item img {
+    width: 20%;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.text {
+    padding: 15%;
+}
