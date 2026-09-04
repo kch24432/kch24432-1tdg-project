@@ -51,7 +51,7 @@ body {
   }
   
   .text {
-    padding: %;
+    padding: 100%;
   }
   
   .image-div img {
@@ -68,3 +68,5 @@ body {
   } 
 
   p { color: #FFFAB0; font-family: system-ui, sans-serif; font-size: 1.2rem; line-height: 1.6; text-shadow: 1px 1px 3px #000000; letter-spacing: 0.5px; }
+
+ 
